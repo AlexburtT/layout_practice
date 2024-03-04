@@ -15,3 +15,6 @@
 + [CSS Spec](https://www.w3.org/Style/CSS/).
 + [CSS Tricks](https://css-tricks.com/).
 + [JS Spec](https://tc39.es/ecma262/).
+
+## Проверка
++ [Поддержка свойств Can I use](https://caniuse.com/).
