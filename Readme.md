@@ -9,4 +9,4 @@
 
 ## Ресурсы
 + [Дока](https://doka.guide/) - документация для разработчиков на понятном языке. Её пишет сообщество, чтобы помогать друг другу. Ваши знания и опыт важны. Делитесь ими, мы поможем.
-+ [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - справочник для Markdown.
++ [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - справочник для Markdown. [Skillbox](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid=ltcvqvygq4805943555) - шпаргалка.
